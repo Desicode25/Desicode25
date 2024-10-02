@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World ✨🌙
 I'm Destiny, a new data coder, looking to break into the field of tech and build the life I've always wanted. 
 - 🔭 I’m currently working on learning python
 - 🌱 I’m currently learning ## #30NitesOfCode:
